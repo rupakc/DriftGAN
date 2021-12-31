@@ -1,0 +1,10 @@
+scikit-learn==0.19.1
+pandas==0.22
+daiquiri==1.5
+numpy==1.15.4
+pymongo==3.6.1
+six==1.11.0
+tensorflow==1.11.0
+tensorflow_hub==0.2.0
+sentencepiece==0.1.8
+keras==2.2.2
